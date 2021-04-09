@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @theAgingApprentice
+- 👋 Hi, I’m theAgingApprentice.
 - 👀 I’m interested in embedded programming and robotics.
 - 🌱 I’m currently learning how to use Github Actions as well as how to write better Arduino code.
 - 💞️ I’m looking to collaborate on an API for a robot platform.
-- 📫 [Contact info on my Pages website](https://theagingapprentice.github.io/)
+- 📫 My contact info is located on my [Pages website](https://theagingapprentice.github.io/)
 
 <!---
 theAgingApprentice/theAgingApprentice is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
